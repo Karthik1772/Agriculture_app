@@ -18,5 +18,5 @@ class MyApp extends StatelessWidget {
       onGenerateRoute: Routes.onGenerate,
       initialRoute: "/splash",
     );
-  }
+  }w
 }
